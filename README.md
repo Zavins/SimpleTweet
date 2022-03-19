@@ -1,18 +1,29 @@
 # Project 2 - *Name of App Here*
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **X** hours spent in total
 
 ## User Stories
 
+<h1>HW 3</h1>
 The following **required** functionality is completed:
 
-- [ ] User can **sign in to Twitter** using OAuth login
-- [ ]	User can **view tweets from their home timeline**
-  - [ ] User is displayed the username, name, and body for each tweet
-  - [ ] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
-- [ ] User can refresh tweets timeline by pulling down to refresh
+- [X] User can **sign in to Twitter** using OAuth login
+- [X]	User can **view tweets from their home timeline**
+  - [X] User is displayed the username, name, and body for each tweet
+  - [X] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
+- [X] User can refresh tweets timeline by pulling down to refresh
+
+<h1>HW4</h1>
+The following **required** functionality is completed:
+
+- [x] User can **compose and post a new tweet**
+  - [x] User can click a “Compose” icon in the Action Bar on the top right
+  - [x] User can then enter a new tweet and post this to twitter
+  - [x] User is taken back to home timeline with **new tweet visible** in timeline
+  - [x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+  - [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 The following **optional** features are implemented:
 
@@ -25,6 +36,8 @@ The following **optional** features are implemented:
 - [ ] User can open the twitter app offline and see last loaded tweets
 - [ ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
 
+
+
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
@@ -33,9 +46,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university_kotlin/NKp3-sqn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university_kotlin/L3-YJaHp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -48,7 +61,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Zavins of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
