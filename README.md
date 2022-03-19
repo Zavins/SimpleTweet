@@ -46,9 +46,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/android_university_kotlin/NKp3-sqn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Zavins/SimpleTweet/blob/master/simpletweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='https://submissions.us-east-1.linodeobjects.com/android_university_kotlin/L3-YJaHp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Zavins/SimpleTweet/blob/master/simpletweet2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
